@@ -1,4 +1,4 @@
-# Cryptocurrency Clusters
+# Cryptocurrency Clusters - Unsupervised Learning
 
 ## Background
 Here, unsupervised machine learning is used to explore whether the cryptocurrencies, from a set of raw data, can be grouped together with other similar cryptocurrencies.
