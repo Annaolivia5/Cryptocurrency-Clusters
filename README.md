@@ -9,9 +9,16 @@ After cleaning and converting all data to a numeric form with dummy variables, t
 
 Then PCA dimensionality reduction was performed, with 90% of the explained variance preseved.
 
-Next, the principal components dataset was further reduced with t-SNE. 
+Next, the principal components dataset was further reduced with t-SNE. Below is a plot of the t-SNE data.
+
+![s-SNE plot](images/tsneplot.png)
 
 An elbow plot, generated from a k-means clustering of the t-SNE data, is used to show that the cryptocurrencies can be grouped into 4 clusters. 
+
+![elbow plot](images/elbow.png)
+
+![elbow plot](images/elbow
+.png)
 
 - - -
 
